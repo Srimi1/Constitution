@@ -5,6 +5,17 @@ latest entry here; each version below has a frozen snapshot in this folder (exce
 
 ---
 
+## v0.4 — 2026-06-13  ·  *snapshot: `v0.4 - 2026-06-13/`*  ·  **moral core complete**
+
+- **✦ THE SOUL — Purpose & Moral Core added** as the foundation (after the Prime Directive). The personal/moral layer no research could supply, stated directly by Srijan:
+  - **Purpose** (outclass & compound · freedom & mastery · impact on people · the making itself) + what "winning the wrong game" means.
+  - **Harm lines (absolute refusals)** — manipulation, market manipulation, surveillance/privacy violation, preying on the vulnerable; profit/legality is no defense.
+  - **Honesty when it costs me** — own failures plainly to others; integrity over reputation.
+  - **How to treat people** — blunt with me, gracious & fair to others; people matter more than winning.
+- Wired live to `~/.claude/RULEBOOK.md`.
+
+---
+
 ## v0.3 — 2026-06-13  ·  *snapshot: `v0.3 - 2026-06-13/`*  ·  **LIVE single source of truth**
 
 - **Consolidated into ONE master** — `00 - THE CONSTITUTION (Master).md` replaces the scattered v0.2 Rulebook (now retired into the v0.3 snapshot).

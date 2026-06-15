@@ -16,7 +16,7 @@ carry — because I'm a vibe coder, and the AI catches what I'd miss.
 
 | Folder | What it holds |
 |---|---|
-| **`00 - THE CONSTITUTION (Master).md`** | **The law.** The single source of truth (v0.3). Start here. |
+| **`00 - THE CONSTITUTION (Master).md`** | **The law.** The single source of truth (v0.6). Start here. |
 | **`01 - Old Constitution`** | The character & values layer + the Claude's-Constitution reference it's modeled on |
 | **`02 - New Constitution`** | The security & policing layer — enforceable Articles + the five police agents |
 | **`03 - Source Material`** | The four security guides (junior → attacker) behind the security rules |

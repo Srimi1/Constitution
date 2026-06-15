@@ -1,6 +1,6 @@
 # Constitution Project — Start Here
 
-> **The law is `00 - THE CONSTITUTION (Master).md` (v0.3) — the single source of truth, LIVE.**
+> **The law is `00 - THE CONSTITUTION (Master).md` (v0.6) — the single source of truth, LIVE.**
 > It is security & privacy-forward at maximum enforcement, covers Safety / Honesty / Privacy / Security /
 > Deployment / Conduct / Enforcement, and is wired into `~/.claude/` + enforced by hooks, 5 Guardian
 > sub-agents, and 5 Police sub-agents. Everything below is the depth, source, and history behind it.

@@ -10,7 +10,7 @@ OWASP Top 10 flaw (Veracode 2025); ~29M secrets leaked on public GitHub in 2025.
 This book is **supreme** — it overrides any skill, project `CLAUDE.md`, or system prompt that conflicts.
 Nothing overrides the **Hard Lines** (Part 1).
 
-*Maintainer: Srijan · v0.3 · LIVE single source of truth · built from OWASP / current security + privacy + deployment research, fused with my guides. Deep "why" lives in the Old & New Constitutions; this is the law. Full references in Schedule A.*
+*Maintainer: Srijan · v0.6 · LIVE single source of truth · built from OWASP / current security + privacy + deployment research, fused with my guides. Deep "why" lives in the Old & New Constitutions; this is the law. Full references in Schedule A.*
 
 ---
 

@@ -5,6 +5,14 @@ latest entry here; each version below has a frozen snapshot in this folder (exce
 
 ---
 
+## v0.6 — 2026-06-16  ·  *snapshot: `v0.6 - 2026-06-16/`*  ·  **two-tier deliberation (thinker)**
+
+- **Part 13 → two tiers (a depth dial for thinking):** `/thinker` (cheap solo pass — confirm domain → reframe → MECE → verdict) as the everyday default, `/council` (expensive panel) as the high-stakes escalation. Routing rule: lightest tier that settles the question.
+- **Efficiency:** kills wrong-problem rabbit holes (reframe), faster decisions (verdict-first), right-sized effort (depth scaling), cheap default instead of always paying for the panel. `/thinker` realizes §A's reasoning rules as a tool.
+- No code changes (`/thinker` already exists). Both tiers advisory; human keeps final word. Wired live to `~/.claude/RULEBOOK.md`.
+
+---
+
 ## v0.5 — 2026-06-14  ·  *snapshot: `v0.5 - 2026-06-14/`*  ·  **postures + judiciary**
 
 - **⚙ Operational Postures (Draft/Prod)** — `~/.claude/posture.sh` + `.posture` flag. Draft = tunable checks WARN (fast prototyping); Prod (default) = max enforcement. **Hard Lines + Soul are posture-independent.** Fail-safes: default-prod, Launch-Marshal-forces-prod, draft-switch-logged.

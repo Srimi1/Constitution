@@ -5,6 +5,15 @@ latest entry here; each version below has a frozen snapshot in this folder (exce
 
 ---
 
+## v0.5 — 2026-06-14  ·  *snapshot: `v0.5 - 2026-06-14/`*  ·  **postures + judiciary**
+
+- **⚙ Operational Postures (Draft/Prod)** — `~/.claude/posture.sh` + `.posture` flag. Draft = tunable checks WARN (fast prototyping); Prod (default) = max enforcement. **Hard Lines + Soul are posture-independent.** Fail-safes: default-prod, Launch-Marshal-forces-prod, draft-switch-logged.
+- **All 5 Guardians posture-aware** — Hard-Line (always block) vs Tunable (warn-in-draft) split per Guardian.
+- **Part 13 — The Judiciary & Advisory Council** — `/council` skill: in-session sub-agent panel (First-Principles · Risk · Executor · Constitution-Counsel → Chairman) reading the Constitution. Mandatory deliberation (prod) before DB/auth/>3-file changes; adjudicates conflicts. Advisory; human keeps final word.
+- Implements `Self-Improving Constitution_1.md` (refined: panel not web-app, posture in a file, fail-safes added). Wired live to `~/.claude/RULEBOOK.md`.
+
+---
+
 ## v0.4 — 2026-06-13  ·  *snapshot: `v0.4 - 2026-06-13/`*  ·  **moral core complete**
 
 - **✦ THE SOUL — Purpose & Moral Core added** as the foundation (after the Prime Directive). The personal/moral layer no research could supply, stated directly by Srijan:

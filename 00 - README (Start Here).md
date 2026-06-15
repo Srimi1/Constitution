@@ -2,7 +2,7 @@
 
 > **The law is `00 - THE CONSTITUTION (Master).md` (v0.6) — the single source of truth, LIVE.**
 > It is security & privacy-forward at maximum enforcement, covers Safety / Honesty / Privacy / Security /
-> Deployment / Conduct / Enforcement, and is wired into `~/.claude/` + enforced by hooks, 5 Guardian
+> Deployment / Conduct / Enforcement, plus the Soul, Draft/Prod Postures, and the Thinker+Council Judiciary, and is wired into `~/.claude/` + enforced by hooks, 5 Guardian
 > sub-agents, and 5 Police sub-agents. Everything below is the depth, source, and history behind it.
 
 This folder holds the whole project, arranged in order. Read it top to bottom by the numbered folders.
@@ -39,8 +39,8 @@ working copy. Iterate 01/02 freely — cut a version snapshot here when an amend
 
 - **README.md** — the convention (how versioning works).
 - **CHANGELOG.md** — every version, what changed, why.
-- **snapshot-version.sh** — one command to freeze a new version: `./snapshot-version.sh v0.3`.
-- **v0.2 - 2026-06-13/** — first frozen snapshot (master + annex + police agents at v0.2).
+- **snapshot-version.sh** — one command to freeze a new version: `./snapshot-version.sh v0.7`.
+- **v0.2 … v0.6/** — frozen snapshots, one folder per released version (v0.2 first; **v0.6** is the current law). Each holds that version's master + amendments.
 
 ### 99 — Other
 Unrelated files parked out of the way.
@@ -74,5 +74,6 @@ license crossing a Part III hard constraint. The binding is live: both documents
 `~/.claude/` (`CONSTITUTION-OF-AI-CONDUCT.md`, `POLICE-AGENTS.md`) and referenced from `~/.claude/CLAUDE.md`
 so every session inherits the whole system.
 
-The five police agents are **defined and bound but not yet deployed as running sub-agents** — that's the
-next opt-in step (it was deferred so a live Sentinel doesn't STOP your working agents until you want it).
+The five police agents are **deployed and live** as running sub-agents in `~/.claude/agents/`
+(`police-{sentinel,auditor,magistrate,warden,registrar}.md`), judging violations to the append-only,
+hash-chained Record at `~/.claude/police/`.

@@ -7,9 +7,10 @@ latest entry here; each version below has a frozen snapshot in this folder (exce
 
 ## v0.6 — 2026-06-16  ·  *snapshot: `v0.6 - 2026-06-16/`*  ·  **two-tier deliberation (thinker)**
 
-- **Part 13 → two tiers (a depth dial for thinking):** `/thinker` (cheap solo pass — confirm domain → reframe → MECE → verdict) as the everyday default, `/council` (expensive panel) as the high-stakes escalation. Routing rule: lightest tier that settles the question.
-- **Efficiency:** kills wrong-problem rabbit holes (reframe), faster decisions (verdict-first), right-sized effort (depth scaling), cheap default instead of always paying for the panel. `/thinker` realizes §A's reasoning rules as a tool.
+- **Part 13 → two tiers (a depth dial for thinking):** `/thinker` (cheap solo pass — confirm domain → reframe → MECE → verdict) as the everyday default, `/council` (expensive panel) as the high-stakes escalation. Routing rule: lightest tier that settles the question. (v0.6 also moved rule-conflict adjudication to default `/thinker`, was `/council`-only in v0.5.)
+- **Efficiency:** kills wrong-problem rabbit holes (reframe), faster decisions (verdict-first), right-sized effort (depth scaling), cheap default instead of always paying for the panel. `/thinker` realizes Part 9's reasoning rules as a tool.
 - No code changes (`/thinker` already exists). Both tiers advisory; human keeps final word. Wired live to `~/.claude/RULEBOOK.md`.
+- **Patch 2026-06-16 (doc integrity):** repo folder renamed (removed trailing space); stale `v0.3` bylines/pointers → `v0.6` across master, RULEBOOK, CLAUDE.md, both READMEs; dangling `§A` cross-ref → `Part 9`; "police not yet deployed" corrected (they are live); Part 6 stale `(NEW)` tag dropped; council "convening mandatory / recommendation advisory" clarified. No change to the law's substance.
 
 ---
 
@@ -72,7 +73,7 @@ latest entry here; each version below has a frozen snapshot in this folder (exce
 
 ---
 
-### Open / planned for v0.3
-- Answer the **§G soul questions** (purpose, dual-use harm, outward honesty, people-vs-systems register, fairness).
-- Red-team the whole system for contradictions / jailbreaks.
-- Fix two `constitution-guard.sh` / `block-dangerous-git.sh` substring false-positives found during the live test.
+### Open / planned (current — updated 2026-06-16)
+- ~~Answer the §G soul questions~~ — **done in v0.4** (THE SOUL: purpose, harm lines, costly honesty, treatment of people).
+- ~~Red-team the system for contradictions / jailbreaks~~ — **done 2026-06-16** (v0.6 5-dimension audit: 40 doc/consistency defects found & fixed, 0 law-breaking).
+- Fix the `constitution-guard.sh` / `block-dangerous-git.sh` substring false-positives (e.g. `rm -rf` on a self-created `mktemp` dir still trips the Sentinel patrol).

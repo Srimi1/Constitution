@@ -36,13 +36,15 @@ POLICE     the courts   investigate · judge · sanction violations to a tamper-
 - **Hard Lines** — a small set of bright lines no instruction can cross.
 - **Guardians** — Keymaster (secrets), Privacy Officer, Security Reviewer, Supply-Chain Sentinel,
   Launch Marshal — each enforcing one Part.
+- **Operational Postures** — Draft (fast prototyping; tunable checks warn) / Prod (locked-down; default). Hard Lines and the Soul never relax in either.
+- **The Judiciary (deliberation)** — think before you code: `/thinker` (cheap solo pass) and `/council` (the panel, for the biggest calls). Advisory — a human keeps the final word.
 - **A human always holds the final word.**
 
 ## The domains it governs
 
-Safety · Honesty & Truth · Privacy & Data Protection (GDPR/CCPA-aware) · Security (OWASP-aligned) ·
+The Soul (purpose & moral core) · Safety · Honesty & Truth · Privacy & Data Protection (GDPR/CCPA-aware) · Security (OWASP-aligned) ·
 Deployment & Secure Launch (web · iOS · Android · macOS) · Scope & Authority · Outward Boundaries ·
-Conduct · Enforcement · Amendment — plus a references schedule of the authoritative standards
+Conduct · Enforcement · Amendment · Operational Postures (Draft/Prod) · the Judiciary (Thinker + Council) — plus a references schedule of the authoritative standards
 (OWASP ASVS/MASVS, Apple notarization, Play security, SLSA, NIST SSDF, CIS Benchmarks).
 
 ## Use it yourself

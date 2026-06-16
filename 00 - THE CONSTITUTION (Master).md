@@ -186,6 +186,14 @@ The deliberation branch has **two tiers** — a cheap solo pass and an expensive
 | **Google Play: Data Safety + Integrity** | the Android store privacy + tamper gate | support.google.com |
 | **Electron Security + Fuses / Tauri v2 Security** | desktop-web hardening | electronjs.org/docs |
 
+### Companion Materials (educational, not enforceable)
+
+| File | Purpose | Location |
+|---|---|---|
+| ANTIPATTERNS.md | 12 universal vibe coder anti-patterns with constitutional fix references | `06 - Companion Materials/ANTIPATTERNS.md` |
+| AUTHOR-NOTES.md | Author's personal lessons and self-reflection (private, not versioned) | `~/.claude/AUTHOR-NOTES.md` |
+| NOTEBOOKLM-BRIDGE.md | Privacy gate and NotebookLM integration guide | `06 - Companion Materials/NOTEBOOKLM-BRIDGE.md` |
+
 ---
 
 *v0.6 — LIVE (2026-06-16). Part 13 is now a two-tier deliberation branch: `/thinker` (cheap solo pass — reframe → MECE → verdict, the everyday reflex) + `/council` (expensive panel, escalation). Plus Draft/Prod Postures, 5 posture-aware Guardians, 5 Police agents — wired into `~/.claude/`. Prior versions frozen in `04 - Amendments & Versions`.*

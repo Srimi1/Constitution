@@ -24,3 +24,6 @@ credentials.json
 # Internal evaluation / working reports — NOT part of the published Constitution.
 # (Holds example secret-shaped strings; kept local so they never publish.)
 report/
+
+# Author's personal diary — never versioned, never published
+AUTHOR-NOTES.md
